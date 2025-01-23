@@ -1,0 +1,1 @@
+This project simulates the role of an Accenture analyst for Social Buzz, a fast-growing social media platform. The analysis focuses on identifying the top 5 most popular content categories by analyzing massive datasets. Insights were provided into user preferences in lifestyle, education, and innovation, along with recommendations for content strategy and engagement improvements.
